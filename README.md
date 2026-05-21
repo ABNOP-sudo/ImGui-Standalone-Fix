@@ -9,6 +9,18 @@
                                    D3D11 ImGui External (x86 / x64)
                                     EXE / DLL ImGui External Menu
 ```
+
+![status](https://img.shields.io/badge/DirectX%20SDK%20removed-orange)
+
+# ImGui Standalone (DX11)
+
+## Forked by ABNOP  
+from [adamhlt](https://github.com/adamhlt)
+
+### Changes
+- Fixed legacy DirectX SDK dependency
+- Migrated build to Windows SDK (DX11)
+
 <p align="center">
     <img src="https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor" alt="C++">
     <img src="https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor" alt="Windows">
